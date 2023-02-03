@@ -1,2 +1,4 @@
-# dev-interview-debriefing-questions
-Questions to ask after each interview to ensure you are improving for the next one.
+# Dev Interview Debriefing Questions
+
+Assessment is vital to success. This repo contains useful debriefing questions to ask yourself after each development position interview. 
+
