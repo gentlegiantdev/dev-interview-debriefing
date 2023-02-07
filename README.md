@@ -1,4 +1,5 @@
-# Dev Interview Debriefing Questions
+![Banner for this repo with text: "Dev Interview Debriefing Questions" and "What to ask yourself when the interview is over..."](https://user-images.githubusercontent.com/100240622/217325828-6269b6f8-94ba-4222-b654-d2c1ead90188.png)
+
 
 The interview process for development positions can be challenging and vary wildly. Not every interview will go well. But every interview CAN be a success IF we learn from it and use it as an opportunity to continue improving our interview skills. 
 
